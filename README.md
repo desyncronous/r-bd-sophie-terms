@@ -7,7 +7,7 @@ Sophie is a **private AI bot for the r/bangladesh Discord server only**. She is 
 
 ## How she works
 
-The chat, fact-check and incident report screenshots are real, taken in the server (the image in the incident report is blurred). The ticket image is an illustration.
+The chat, fact-check and incident report screenshots are real, taken in the server (the image in the incident report is blurred). The ticket, rename and status report images are illustrations.
 
 **Chatting when mentioned** (real)
 ![Chat](screenshots/1-chat.png)
@@ -20,3 +20,9 @@ The chat, fact-check and incident report screenshots are real, taken in the serv
 
 **Reporting an incident to staff with evidence** (real)
 ![Incident report](screenshots/4-incident-report.png)
+
+**Renaming members with inappropriate names** (illustration)
+![Rename](screenshots/5-rename.png)
+
+**Reporting a scam link in a custom status** (illustration)
+![Status report](screenshots/6-status-report.png)
